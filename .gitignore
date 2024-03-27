@@ -1,2 +1,4 @@
 /.idea/
 **/screenshots/
+/cmake-build-debug/
+CMakeLists.txt
