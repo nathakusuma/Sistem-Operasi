@@ -1,0 +1,13 @@
+
+ Do you want make an additional request ? (1=Yes|0=No)1
+
+ Enter process no. : 5
+
+ Enter additional request :‐ 
+ Request for resource 1 : 0
+ Request for resource 2 : 2
+ Request for resource 3 : 0
+
+
+P3 P4 P1 P2 P0
+A safety sequence has been detected.
